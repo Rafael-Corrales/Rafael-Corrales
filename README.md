@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rafael Corrales!
 
-<!--
-**Rafael-Corrales/Rafael-Corrales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **.NET Developer** with over 6 years of experience in building robust, scalable, and maintainable backend systems using **ASP.NET Core**, **Web API**, **Entity Framework**, and **SQL Server**. I specialize in enterprise solutions, microservices, and clean architecture principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: C#, SQL, JavaScript, TypeScript
+- **Frameworks**: .NET 6/7/8, ASP.NET Core, Entity Framework Core
+- **Frontend**: Angular, Razor Pages, Bootstrap, DevExpress Controls, HTML, CSS
+- **Databases**: SQL Server, Azure SQL, PostgreSQL
+- **Cloud**: Microsoft Azure (App Services, Storage, Functions)
+- **DevOps**: Git, Azure DevOps, CI/CD Pipelines
+- **Testing**: xUnit
+
+---
+
+## 🚀 About Me
+- 💼 Working remotely with companies in 🇺🇸, 🇨🇷, 🇵🇦 and beyond
+- 🎯 Focused on clean code, SOLID principles, and performance optimization
+- 🧠 Currently pursuing a Master’s in IT Management
+- ✈️ Passionate about remote work, global collaboration, and digital transformation
+
+---
+
+## 📫 Let's Connect!
+- 🐦 [Twitter](https://twitter.com/Rafa_Corrales)
+- 💌 [Email](mailto:rafacorrales20@gmail.com)
+
+---
+
+
+---
+
+> “Good code is its own best documentation.” – Steve McConnell
+
+
